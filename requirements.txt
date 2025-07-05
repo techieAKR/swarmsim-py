@@ -1,0 +1,5 @@
+# requirements.txt
+pygame==2.6.1
+numpy==2.3.1
+matplotlib==3.10.3  # For data visualization
+scipy==1.16.0     # For advanced metrics
