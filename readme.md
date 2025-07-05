@@ -152,7 +152,7 @@ If you use SwarmSim-Py in your research, please cite:
 
 ```bibtex
 @software{swarmsim-py,
-  author = Akshay KUmar,
+  author = Akshay Kumar,
   title = {SwarmSim-Py: A Lightweight Python Framework for Swarm Robotics},
   year = {2025},
   url = {https://github.com/techieakr/swarmsim-py}
