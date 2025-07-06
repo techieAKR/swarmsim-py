@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Developed as part of Collective Robotics course at University of Lübeck
+- Developed as part of the Collective Robotics course at the University of Lübeck
 - Inspired by ARGoS, NetLogo, and other swarm simulators
 - Thanks to the Pygame community for the excellent framework
 
