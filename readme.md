@@ -133,8 +133,6 @@ Tested on various systems:
 |--------|--------|-----|
 | RTX 4080 | 20 | 60+ |
 | RTX 3060 | 20 | 60+ |
-| Intel Iris | 20 | 45-60 |
-| Raspberry Pi 4 | 10 | 30-45 |
 
 ## 🤝 Contributing
 
